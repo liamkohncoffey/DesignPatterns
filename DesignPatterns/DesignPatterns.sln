@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesAndInheritance", "InterfacesAndInheritance\InterfacesAndInheritance.csproj", "{85095E09-B6DB-4D24-9121-28DCB88C3F65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{A837D87C-6833-43DB-8515-6B9C8549BE01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85095E09-B6DB-4D24-9121-28DCB88C3F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85095E09-B6DB-4D24-9121-28DCB88C3F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85095E09-B6DB-4D24-9121-28DCB88C3F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85095E09-B6DB-4D24-9121-28DCB88C3F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A837D87C-6833-43DB-8515-6B9C8549BE01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A837D87C-6833-43DB-8515-6B9C8549BE01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A837D87C-6833-43DB-8515-6B9C8549BE01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A837D87C-6833-43DB-8515-6B9C8549BE01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
